@@ -1,0 +1,7 @@
+/bin
+/build-eclipse
+/dist
+/reports
+/xtend-gen
+Thumbs.db
+*.trace

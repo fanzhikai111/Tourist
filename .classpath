@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="devlib/ant-junit.jar"/>
+	<classpathentry kind="lib" path="devlib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="devlib/ant.jar"/>
+	<classpathentry kind="lib" path="devlib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="devlib/emma_ant.jar"/>
+	<classpathentry kind="lib" path="devlib/emma.jar"/>
+	<classpathentry kind="lib" path="devlib/jmock-1.0.1.jar"/>
+	<classpathentry kind="lib" path="devlib/jmock-cglib-1.0.1.jar"/>
+	<classpathentry kind="lib" path="devlib/junit.jar"/>
+	<classpathentry kind="lib" path="devlib/servlet.jar"/>
+	<classpathentry kind="lib" path="lib/antlr.jar"/>
+	<classpathentry kind="lib" path="lib/beanaction.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="lib/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/commons-validator.jar"/>
+	<classpathentry kind="lib" path="lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="lib/ibatis-common-2.jar"/>
+	<classpathentry kind="lib" path="lib/ibatis-dao-2.jar"/>
+	<classpathentry kind="lib" path="lib/ibatis-sqlmap-2.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="lib/struts.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build-eclipse"/>
+</classpath>
